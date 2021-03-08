@@ -1,0 +1,11 @@
+{
+    "name": "app-service-portfolio",
+    "description": "Project Portfolio",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Ren Gernes",
+    "scripts": {
+        "start": "index.js"
+    }
+}
